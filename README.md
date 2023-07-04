@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasan Gürgah</h1>
 <h3 align="center">I am a Computer Programming graduate. I am a 4th year Management Information Systems student. I participated in the 5-month Istanbul Training Academy .NET development program and was also accepted to the Project Management Training from Enerjisa.</h3>
 
+- 📫 How to reach me **hasangurgah@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasangurgah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasangurgah" height="30" width="40" /></a>
